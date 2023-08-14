@@ -1,3 +1,4 @@
 123
 new 78
 New line
+commit
